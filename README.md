@@ -9,3 +9,4 @@ git add [files]
 git commit -m"[your message]"
 git push
 ```
+Simonas Valkiunas is 'COOL'
